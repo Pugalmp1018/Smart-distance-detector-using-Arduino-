@@ -39,4 +39,4 @@ The Arduino measures the time taken for the ultrasonic waves to return and calcu
 The **Smart Distance Detector Using Arduino** is a simple and useful embedded-system project that demonstrates how ultrasonic sensors can be used for contactless distance measurement. It provides a basic platform for developing more advanced **robotics, automation, IoT, and smart sensing applications**.
 
 ### **RESULT**
-
+![result](https://github.com/Pugalmp1018/Smart-distance-detector-using-Arduino-/upload/main)
